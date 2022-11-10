@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Kela 👋
+[![Blog](https://img.shields.io/badge/BLOG-KLEDJAASLLANI-brightgreen.svg)](https://blog.kledjaasllani.com/)
 
-<!--
-**kela19/kela19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Boston-based Data Scientist in the making!
 
-Here are some ideas to get you started:
+- 🔭 Currently Computer Science Student @[NSCC](https://www.northshore.edu/)
+- 🌱 Passioned about applying math on real life problems!
+- ⚡  Fun fact: I am obsessed with my 1 year old lab 🐶!
+- 🎨 On my free time I like painting and designing clothes👗.  
+  - Check out my blog for the latest work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Info
+📫 You can reach me:
+- on [LinkedIn](https://www.linkedin.com/in/kledjaasllani/)
+- email @ me@kledjaasllani.com<br>
